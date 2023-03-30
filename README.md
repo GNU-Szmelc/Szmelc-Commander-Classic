@@ -1,7 +1,21 @@
 ![image](https://i.imgur.com/K39RMVB.png)
 
-# === [ Features ] ===
+# === [About] ===
+> ### Szmelc Commander is a powerful, open-source application designed to help users manage and use all Szmelc originals & more!. With Szmelc Commander, users can easily install, update, manage and run packages, while taking advantage of a variety of key features, including universal and simple exec.sh entry points, Python3 main.py and runner.py CLI interfaces, and Szmelc APIs for Obsidian.md, GitHub and more.
 
+
+# === [ Installation ] ===
+> Run in Terminal [Linux] [Bash shell] [Git]
+```
+git clone https://github.com/serainox420/Szmelc-Commander.git
+cd Szmelc-Commander
+sudo chmod -x exec.sh
+bash exec.sh
+```
+> Windoze & Mac support comming in future!
+
+
+# === [ Features ] ===
 > [Entry point] `exec.sh` 
 >
 > [Interfaces] `main.py` <-> `runner.py`
@@ -9,7 +23,7 @@
 > [Launcher] (Debian): `Szmelc.desktop`
 
 
-# Project Mind Map (Obsidian.md)
+## Project Mind Map (Obsidian.md)
 ![image](https://i.imgur.com/3CDRhGJ.png)
 
 
