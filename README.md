@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/K39RMVB.png)
+![image](https://i.imgur.com/T3GczBe.png)
 
 [![Github](https://img.shields.io/badge/GitHub-[Szmelc_Commander]-gold?style=for-the-badge)](https://github.com/serainox420/Szmelc-Commander)
 [![Discord](https://img.shields.io/discord/966251626698526730?color=gold&style=for-the-badge)](https://discord.gg/eRPr5RtWeZ)
@@ -33,6 +33,8 @@ bash exec.sh
 >
 > [Launcher] (Debian): `Szmelc.desktop`
 
+## Dir Contents
+![image](https://i.imgur.com/Z1jcYh0.png)
 
 ## Project Mind Map (Obsidian.md)
 ![image](https://i.imgur.com/3CDRhGJ.png)
