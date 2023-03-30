@@ -1,2 +1,11 @@
-# Szmelc-Commander
-"One Szmelc to rule them all.." ~ Unified Szmelc.INC package manager &amp; runner interface
+# [Szmelc Commander]
+
+## Most recent build: [Mk II]
+
+## By [Silverainox]
+### ~ Official Szmelc Media Channels
+#### > [https://github.com/serainox420]
+#### > [https://linktr.ee/silverainox]
+#### > [https://discord.gg/eRPr5RtWeZ]
+
+### Entry point: `exec.sh` -> `main.py` <-> `runner.py`
