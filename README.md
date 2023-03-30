@@ -1,17 +1,19 @@
 ![image](https://i.imgur.com/K39RMVB.png)
 
-### === [ Features ] ===
+# === [ Features ] ===
+
 > [Entry point] `exec.sh` 
 >
 > [Interfaces] `main.py` <-> `runner.py`
 >
 > [Launcher] (Debian): `Szmelc.desktop`
 
+
 # Project Mind Map (Obsidian.md)
 ![image](https://i.imgur.com/3CDRhGJ.png)
 
 
-### === [ To do ] === 
+## === [ To do ] === 
 
 >`Config.yml` ~ Add variables and other user defined settings
 >
@@ -25,7 +27,7 @@
 >
 
 
-### === [ Official Szmelc Media ] ===
+## === [ Official Szmelc Media ] ===
 > [https://github.com/serainox420] - [GitHub]
 >
 > [https://linktr.ee/silverainox] - [LinkTr.ee]
