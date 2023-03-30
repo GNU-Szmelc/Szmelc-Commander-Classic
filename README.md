@@ -9,3 +9,5 @@
 #### > [https://discord.gg/eRPr5RtWeZ]
 
 ### Entry point: `exec.sh` -> `main.py` <-> `runner.py`
+### Launcher (Debian): `Szmelc.desktop`
+### `Config.yml` - TO DO
