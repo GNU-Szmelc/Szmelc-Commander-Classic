@@ -50,8 +50,10 @@ bash exec.sh
 >
 > Make better ASCII CLI panel design
 >
-> Release `Szmelc Porter` 101 ~ How to make any Repository compatible with SC
->
+
+## === [ Additional Info ] === 
+
+> To make any repository compatible with SC, clone `exec.sh` entry point inside your repository, create `main.py` as your main interface or rename your interface script to main.py.
 
 
 ## === [ Official Szmelc Media ] ===
