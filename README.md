@@ -1,7 +1,7 @@
 ![image](https://i.imgur.com/T3GczBe.png)
 
 [![Github](https://img.shields.io/badge/GitHub-[Szmelc_Commander]-gold?style=for-the-badge)](https://github.com/serainox420/Szmelc-Commander)
-[![Discord](https://img.shields.io/discord/966251626698526730?color=gold&style=for-the-badge)](https://discord.gg/eRPr5RtWeZ)
+[![Discord](https://img.shields.io/discord/966251626698526730?color=gold&style=for-the-badge)](https://discord.gg/dtEvHFXnSb)
 
 [![License](https://img.shields.io/badge/License-GPL%203.0-darkcyan?style=for-the-badge)](LICENSE)
 ![Activity](https://img.shields.io/github/commit-activity/m/serainox420/Szmelc-Commander?color=cyan&style=for-the-badge)
