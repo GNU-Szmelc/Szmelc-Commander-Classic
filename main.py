@@ -21,7 +21,7 @@ password = main["password"]
 repositories = [
     "https://github.com/serainox420/Minecraft-Server-Silverscanner",
     "https://github.com/serainox420/Craft-Net",
-    "https://github.com/Shmelc-sh/Obsidian-Sync",
+    "https://github.com/serainox420/Obsidian-Sync",
     "https://github.com/serainox420.github.io",
     "https://github.com/serainox420/InstallShell"
 ]
