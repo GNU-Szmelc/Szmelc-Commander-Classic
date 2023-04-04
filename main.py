@@ -12,10 +12,10 @@ with open("config.yml", "r") as f:
 
 # Access the config.yml configuration data
 main = config["main"]
-host = main["host"]
-port = main["port"]
-username = main["username"]
-password = main["password"]
+var1 = main["var1"]
+var2 = main["var2"]
+var3 = main["var3"]
+var4 = main["var4"]
 
 # Define the repositories to download
 repositories = [
