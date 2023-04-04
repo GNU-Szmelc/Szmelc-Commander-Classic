@@ -53,7 +53,9 @@ bash exec.sh
 
 ## === [ Additional Info ] === 
 
-> To make any repository compatible with SC, clone `exec.sh` entry point inside your repository, create `main.py` as your main interface or rename your interface script to main.py.
+> To make any repository compatible with SC, clone `exec.sh` entry point inside your repository, \
+> Create `main.py` as your main interface or rename your interface script to main.py.\
+> Add your repo's URL to your fork of Szmelc Commander.
 
 
 ## === [ Official Szmelc Media ] ===
