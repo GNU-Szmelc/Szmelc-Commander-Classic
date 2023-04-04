@@ -1,8 +1,6 @@
-[FEATURES TO IMPLEMENT]
- To do:
- - Add `Szmelc Commander` main dir path
- - Add 'Usr & Group'
- - Add Repositories as .txt, .yml or .sh file and path to select
-(Allow multiple repositories, prompt user which repo to szmelc on startup)
- - Add dependency management
- - Add ...
+# Example config.yml file [example variables]
+main:
+  host: localhost
+  port: 5432
+  username: user
+  password: eee
