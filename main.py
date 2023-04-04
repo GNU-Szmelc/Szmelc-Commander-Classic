@@ -5,6 +5,17 @@ import os
 import shutil
 import subprocess
 import time
+import yaml
+
+with open("config.yml", "r") as f:
+    config = yaml.safe_load(f)
+
+# Access the config.yml configuration data
+main = config["main"]
+host = main["host"]
+port = main["port"]
+username = main["username"]
+password = main["password"]
 
 # Define the repositories to download
 repositories = [
